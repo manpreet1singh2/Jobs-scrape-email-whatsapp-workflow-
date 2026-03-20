@@ -211,7 +211,7 @@ If this project helped you:
 **Manpreet Singh**
 🚀 Full Stack & AI Automation Developer
 
-📧 [thenightcreww@hotmail.com](mailto:dimplebrar13@gmail.com)
+📧 [dimplebrar13@gmail.com](mailto:dimplebrar13@gmail.com)
 🌐 [https://portfolio.com]([https://thenightcrew.club](https://v0-portfolio-project-idea-lake.vercel.app/)
 
 ---
