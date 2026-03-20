@@ -2,6 +2,11 @@
 
 ⚡ Fully automated system to scrape jobs and send real-time alerts via Email & WhatsApp
 
+🌐 Live Demo
+
+🔗 View Live Project:
+👉 https://manpreet1singh2.github.io/Jobs-scrape-email-whatsapp-workflow-/
+
 📌 Overview
 
 This project is an end-to-end automation workflow built using n8n that scrapes job listings (LinkedIn & other sources), processes structured data, and delivers instant notifications via Email and WhatsApp.
